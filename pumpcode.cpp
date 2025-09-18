@@ -8,6 +8,7 @@
  * Debug    : irrigation/<ZONE>/debug   -> human-readable diagnostics
  *
  * Hardware:
+ *  - ESP32C3
  *  - ESP8266 (e.g., Wemos D1 mini)
  *  - IRLZ44N gate on D2 (GPIO4) via ~220 Ω; 5–10 kΩ gate pulldown to GND
  *  - Flyback diode across 6 V pump (cathode to +6 V, anode to pump−/MOSFET drain)
